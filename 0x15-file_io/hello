@@ -1,1 +1,13 @@
-world
+Hello World!
+
+gc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+gcc -Wll -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+1)
+gcc -Wll -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+gcc -Wall -pedantic -Werror -Wetra -std=gnu89 2-main.c 2-append_text_to_file.c -o c
+clear
+:x
+C
+Q
+q
+exict
